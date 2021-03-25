@@ -27,7 +27,7 @@ title: Allison Day's Resume
 
 ## Related Experience
 
-### Data Science Lead
+### Data Science Consultant
 
 `January 2021 - April 2021`
 **The College of Eastern Idaho**, Consultant
