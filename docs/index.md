@@ -3,7 +3,7 @@ layout: cv
 title: Allison Day's Resume
 ---
 
-# Allison Day
+# ALLISON DAY
 
 <div id="webaddress">
 <a href="allisonbeverlyday@gmail.com">allisonbeverlyday@gmail.com</a>
