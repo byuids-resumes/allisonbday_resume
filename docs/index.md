@@ -17,7 +17,7 @@ title: Allison Day's Resume
 `2018-2020`
 __Utah Valley University__, Orem, UT
 
-- Associates in General Studies, 3.8 GPA
+- Associate's in General Studies, 3.8 GPA
 
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
@@ -27,23 +27,14 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
 ### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2021 - April 2021`
+__The College of Eastern Idaho__, Consultant
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Developed a statistical graph to show the STEM areas with the highest predicted growth in the next 10 years.
+- Used Python to develop a dashboard.
+- Improved the dashboard to be interactive and change data sets to National, Idaho, and Eastern Idaho.
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
