@@ -32,16 +32,16 @@ title: Allison Day's Resume
 `January 2021 - April 2021`
 **The College of Eastern Idaho**, Consultant
 
-- Developed a statistical graph to show the STEM areas with the highest predicted growth in the next 10 years.
+- Developed graphs to show the STEM areas with the highest predicted growth in the next 10 years.
 - Used Python to develop a dashboard.
 - Improved the dashboard to be interactive and change data sets to National, Idaho, and Eastern Idaho.
 
 ## Service and Work History
 
-`2020 - Present`
+`September 2020 - Present`
 **English Connect 3 Grader**, Brigham Young University - Pathway
 
-`2020 - Present`
+`September 2020 - Present`
 **Student Consult on Teaching**, Brigham Young University - Idaho
 
 `2019-2020`
