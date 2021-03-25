@@ -17,7 +17,7 @@ title: Allison Day's Resume
 `2018-2020`
 __Utah Valley University__, Orem, UT
 
-- Associates in General Studies with 3.8 GPA
+- Associates in General Studies, 3.8 GPA
 
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
