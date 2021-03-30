@@ -39,7 +39,7 @@ title: Allison Day's Resume
 ## Service and Work History
 
 `September 2020 - Present`
-**English Connect 3 Grader**, Brigham Young University - Pathway
+**English Connect 3 Grader**, Brigham Young University - Idaho
 
 `September 2020 - Present`
 **Student Consult on Teaching**, Brigham Young University - Idaho
