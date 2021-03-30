@@ -35,8 +35,6 @@ title: Allison Day's Resume
 - Built dashboard to support Eastern Idaho Employment Impact for Degree improvement at EIC.
 - Git/Github managed project using Python leveraging pandas and Altair within the dasboard.
 - EIC will leverage dashboard to propose new degrees for college.
-- Developed graphs to show the STEM areas with the highest predicted growth in the next 10 years.
-- Used Python to develop a dashboard.
 - Improved the dashboard to be interactive and change data sets to National, Idaho, and Eastern Idaho.
 
 ## Service and Work History
