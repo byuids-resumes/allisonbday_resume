@@ -30,7 +30,11 @@ title: Allison Day's Resume
 ### Data Science Consultant
 
 `January 2021 - April 2021`
-**The College of Eastern Idaho**, Consultant
+**Research and Business Development Center**, Consultant for EIC
+
+- Built dashboard to support Eastern Idaho Employment Impact for Degree improvement at EIC.
+- Git/Github managed project using Python leveraging pandas and Altair within the dasboard.
+- EIC will leverage dashboard to propose new degrees for college.
 
 - Developed graphs to show the STEM areas with the highest predicted growth in the next 10 years.
 - Used Python to develop a dashboard.
