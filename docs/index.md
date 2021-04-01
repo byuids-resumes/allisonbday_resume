@@ -32,10 +32,9 @@ title: Allison Day's Resume
 `January 2021 - April 2021`
 **Research and Business Development Center**, Consultant for EIC
 
-- Built dashboard to support Eastern Idaho Employment Impact for Degree improvement at EIC.
-- Git/Github managed project using Python leveraging pandas and Altair within the dasboard.
-- EIC will leverage dashboard to propose new degrees for college.
-- Improved the dashboard to be interactive and change data sets to National, Idaho, and Eastern Idaho.
+- Built dashboard to support Eastern Idaho Employment Impact for Degree improvement at EIC, as well as imporved it to be interactive with exchangable datasets for National, Idaho and Eastern Idaho.
+- Git/Github managed project using Python leveraging pandas and Altair within the dasboard using the **insert python package to make the dashboard** package.
+- Dashboard will be leveraged to propose new degrees for college.
 
 ## Service and Work History
 
